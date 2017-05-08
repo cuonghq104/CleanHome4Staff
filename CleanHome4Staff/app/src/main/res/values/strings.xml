@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">CleanHome4Staff</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">Đăng nhập</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="revenue">Tổng doanh thu phát sinh</string>
+    <string name="total_order">Tổng số giao dịch phát sinh</string>
+    <string name="title_activity_order_report">OrderReportActivity</string>
+    <string name="message_send">Đã gửi tin nhắn!</string>
+    <string name="error_message">Lỗi, vui lòng gửi lại sau!</string>
 </resources>

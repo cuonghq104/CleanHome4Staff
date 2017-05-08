@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:icon="@drawable/ic_user_black_close_up_shape"
+            android:id="@+id/nav_info"
+            android:title="Thông tin tài khoản" />
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_file"
+            android:title="Đơn hàng" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_bar_chart"
+            android:title="Báo cáo thống kê" />
+
+        <item
+            android:icon="@drawable/ic_logout"
+            android:id="@+id/nav_log_out"
+            android:title="Đăng xuất"
+            />
+    </group>
+
+</menu>
